@@ -50,7 +50,7 @@ module.exports = () => {
       rules: [
         {
           test: /\.css$/i,
-          use: ["style-loeader", "css-loader"],
+          use: ["style-loader", "css-loader"],
         },
         {
           test: /\.m?js$/,
