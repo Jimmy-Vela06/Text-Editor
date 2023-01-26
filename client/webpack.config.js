@@ -31,7 +31,7 @@ module.exports = () => {
         inject: true,
         name: "Text Editor",
         short_name: "JATE",
-        description: "Text editor ",
+        description: "Text editor using PWA",
         background_color: "#f5f5f5",
         theme_color: "#225ca3",
         start_url: "./",
